@@ -71,7 +71,7 @@ def is_valid_pair(italian, english):
     return True
 
 def main():
-    input_file = '/Users/jackblundin/Quizlet_Replacement/vocab_list.txt'
+    input_file = 'vocab_list.txt'
     
     print("Processing vocabulary list...")
     vocab_dict = clean_vocab_list(input_file)
@@ -86,7 +86,7 @@ def main():
         print(f"  '{italian}' -> '{english}'")
     
     # Save the dictionary to a Python file
-    output_file = '/Users/jackblundin/Quizlet_Replacement/vocab_dict.py'
+    output_file = 'vocab_dict.py'
     with open(output_file, 'w', encoding='utf-8') as f:
         f.write("# Italian-English Vocabulary Dictionary\n")
         f.write("# Generated from vocab_list.txt\n\n")
