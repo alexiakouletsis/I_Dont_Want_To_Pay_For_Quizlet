@@ -1,8 +1,5 @@
 # Alexit 🇮🇹
-<<<<<<< HEAD
 
-=======
->>>>>>> 419c8a2139a13ba09b3f3e39112c3a74631fe282
 A personal Italian flashcard app built while studying abroad in Rome. I got tired of Quizlet's paywall, so I made my own.
 
 ## Features
