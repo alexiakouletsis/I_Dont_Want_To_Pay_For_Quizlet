@@ -1,0 +1,14 @@
+
+
+
+I need you to build me a feature of Quizlet that I don't want to have to pay for on Quizlet:
+
+
+
+
+
+
+
+
+Use React and add smooth animations for transitions.
+The UI should look exactly like the attacthed image, expect instead of saying "quizlet", it should say "Hi Alexia!"
